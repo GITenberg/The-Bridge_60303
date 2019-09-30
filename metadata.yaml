@@ -1,0 +1,40 @@
+_repo: The-Bridge_60303
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Emshwiller, Ed
+    aliases:
+    - Emshwiller, Edmund A.
+    - Emsh, Ed
+    - Alexander, Ed
+    - Emsh
+    - Willer
+    birthdate: 1925
+    deathdate: 1990
+    gutenberg_agent_id: '25412'
+    url: http://www.gutenberg.org/2009/agents/25412
+    wikipedia: http://en.wikipedia.org/wiki/Ed_Emshwiller
+creator:
+  author:
+    agent_name: Revelle, G. G.
+    alias: Revelle, G.G.
+    gutenberg_agent_id: '50901'
+    url: http://www.gutenberg.org/2009/agents/50901
+description: ''
+gutenberg_issued: '2019-09-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '60303'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Soldiers -- Fiction'
+- !lcsh 'Short stories'
+- !lcc 'PS'
+- !lcsh 'Science fiction'
+- !lcsh 'Cold War -- Fiction'
+- GITenberg
+title: The Bridge
+url: http://www.gutenberg.org/ebooks/60303
